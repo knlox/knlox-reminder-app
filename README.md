@@ -17,4 +17,4 @@ A **Flutter-based mobile app** for scheduling reminders, organizing notes, and A
 ## Installation
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/knlox-reminder-app.git
+git clone https://github.com/knlox/knlox-reminder-app.git
