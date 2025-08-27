@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
-public class RemiderService {
+public class ReminderService {
     @Autowired private ReminderRepository reminderRepository;
 
     public List<Reminder> getAll() {

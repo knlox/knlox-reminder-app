@@ -1,4 +1,7 @@
 package com.knlox.knlox_reminder.repository;
 
-public class ReminderReposiory {
+import com.knlox.knlox_reminder.entity.Reminder;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ReminderRepository extends JpaRepository<Reminder, Long>{
 }
